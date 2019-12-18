@@ -59,8 +59,8 @@ def matrix_lookup(matrix,row, column)
   
  #assembled_matrix.sort
   
-  matrix=assembled_matrix.sort
-   return assembled_matrix[1][1]
+  #matrix=assembled_matrix.sort
+   return matrix[1][1]
    #matrix=sorted_matrix
    # y=matrix[1][1]
    
